@@ -1,0 +1,16 @@
+{
+    "name": "aluno/aluno",
+    "description": "projeto DDS-HTM-CSS-JAVASCRIPT",
+    "autoload": {
+        "psr-4": {
+            "Aluno\\Aluno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caio Ângelo",
+            "email": "caio3@es.es.estudante.senai.br"
+        }
+    ],
+    "require": {}
+}
